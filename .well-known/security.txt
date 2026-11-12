@@ -1,4 +1,4 @@
-Contact: mailto:hello@hazelwoodsolutions.com
+Contact: mailto:hello@hazelwoodsolutions.co.uk
 Expires: 2027-11-12T00:00:00.000Z
 Preferred-Languages: en
 Canonical: https://hazelwoodsolutions.co.uk/.well-known/security.txt
